@@ -1,6 +1,7 @@
 # ![Banner profile](github-header-image.png)
 
 Hi, I am a computer student, passionate about learning. I like automation and farming videogames (Factorio, Stardew Valley). Minecraft player since 8 years ago. 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=es#inbox?compose=DmwnWsmHZmqHFhHRwjdCDNXvzLQstVfBgqWSMStXFpwDZcxdMdGRBVRRGLmzfcxRCNjlrlHGwBWl)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/OscopioCaleido/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nrwl4ngadbuxbcsygzjs62lt7?si=150756d2a7774f4d)
